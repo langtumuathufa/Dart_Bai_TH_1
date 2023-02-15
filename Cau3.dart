@@ -1,4 +1,4 @@
 void main() {
-  final int myConstant = 7;
+  const int myConstant = 7;
   print(myConstant);
 }
